@@ -1,0 +1,16 @@
+{
+  "name": "dash-unko-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dash-button": "^2.0.1",
+    "date-utils": "^1.2.21",
+    "twitter": "^1.7.0"
+  }
+}
