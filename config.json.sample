@@ -1,9 +1,9 @@
 {
     "twitter_credentials": {
-        "consumer_key": "1FWZtCkEQlNtXcSnGptq1pSpM",
-        "consumer_secret": "5YGM7e6PLt0VZVhK55PsLX1G1ST98SpJcQzxkKlYowLqiMrbn6",
-        "access_token_key": "807832794499952640-HqXF2MEZnkSLtJUkH3ltjTMTZIIawD7",
-        "access_token_secret": "AKNrur8ks4lq6UDDLCn9RpitV5tduIdPPYl189z35aL0E"
+        "consumer_key": "1234567890abcdefghABCDEFG",
+        "consumer_secret": "1234567890abcdefghijkABCDEFGHIJKxxxxxxxxxXXXXXXXXX",
+        "access_token_key": "123456789099999999-1234567890abcdefghijkABCDEFGHIJ",
+        "access_token_secret": "1234567890abcdefghijkABCDEFGHIJKxxxxxxxxxXXXX"
     },
     "mac_address": "34:d2:70:68:ff:91"
 }
